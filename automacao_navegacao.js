@@ -33,4 +33,4 @@ puppeteer.use(StealthPlugin());
     await browser.close();
 })();
 // Pequena modificação para forçar deploy
-console.log("Forçando deploy no Railway...");
+console.log("Forçando deploy no Railway...")
